@@ -1,0 +1,43 @@
+html {
+    font-family: Circular std, sans-serif;
+}
+
+#home {
+    background: #ffc107;
+    color: #fff;
+    margin-top: 63px;
+}
+
+a {
+    color: #fff;
+}
+
+.hover-link li a:hover {
+    color: #0000FF;
+}
+
+.hover-link li a.btn:hover {
+    color: #0000FF;
+
+}
+
+.navbar a img {
+    width: 142px;
+}
+
+header nav {
+    background: rgba(255, 193, 7);
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+.margin-link-footer a {
+    margin-left: 10px;
+}
