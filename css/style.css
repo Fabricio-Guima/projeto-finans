@@ -8,6 +8,7 @@ html {
     margin-top: 63px;
 }
 
+
 a {
     color: #fff;
 }
@@ -40,4 +41,10 @@ footer p a {
 
 .margin-link-footer a {
     margin-left: 10px;
+}
+
+@media (max-width: 500px) {
+    form {
+        width: 75%;
+    }
 }
